@@ -1,0 +1,110 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "lblChange1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "lblChange2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "lblChange3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "lblChange4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "chckStuff.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "drpSnack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "sldHonesty.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "swtchSchoolDay.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "ABFourControls",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "fixed",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
