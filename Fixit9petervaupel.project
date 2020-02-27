@@ -41,6 +41,14 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABMadLibs",
+            "ABMadLibs.json"
+          ]
         }
       ],
       "configxml": null,
@@ -53,7 +61,7 @@
       "electronDevTools": "true",
       "electronMain": null,
       "electronPackage": null,
-      "enableAppScroll": "false",
+      "enableAppScroll": "true",
       "enableBrowserArrows": "false",
       "enableNiceLinks": "false",
       "eslintRules": null,
@@ -61,7 +69,11 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< Updated upstream
       "firstform": "login",
+=======
+      "firstform": "ABMadLibs",
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
